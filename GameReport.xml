@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gameReport>
+  <playerReport>
+    <playerName>
+    </playerName>
+    <gameTime>
+      <endTime>
+      </endTime>
+    </gameTime>
+    <armUseCount>0</armUseCount>
+    <draggingRequest>
+      <requestTime>
+      </requestTime>
+    </draggingRequest>
+    <draggingOther>
+      <dragTime>
+      </dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+    </draggingOther>
+    <gasHit>
+      <hitTime>
+      </hitTime>
+      <hittingPlayerName>
+      </hittingPlayerName>
+    </gasHit>
+    <airRequest>
+      <requestTime>
+      </requestTime>
+    </airRequest>
+    <averageAir>
+    </averageAir>
+    <stagesCompletedCount>
+    </stagesCompletedCount>
+    <emojiUse>
+      <time>
+      </time>
+      <type>
+      </type>
+    </emojiUse>
+  </playerReport>
+  <playerReport>
+    <playerName>Server</playerName>
+    <gameTime>
+      <endTime>00 : 44</endTime>
+    </gameTime>
+    <armUseCount>5</armUseCount>
+    <draggingRequest>
+      <requestTime />
+    </draggingRequest>
+    <draggingOther>
+      <dragTime>18 : 17</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>18 : 15</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>16 : 35</dragTime>
+      <draggedPlayerName>Client</draggedPlayerName>
+    </draggingOther>
+    <gasHit>
+      <hitTime>01 : 22</hitTime>
+      <hittingPlayerName>Client</hittingPlayerName>
+    </gasHit>
+    <airRequest>
+      <requestTime />
+    </airRequest>
+    <averageAir />
+    <stagesCompletedCount />
+    <emojiUse>
+      <time />
+      <type />
+    </emojiUse>
+  </playerReport>
+  <playerReport>
+    <playerName>Client</playerName>
+    <gameTime>
+      <endTime />
+    </gameTime>
+    <armUseCount>5</armUseCount>
+    <draggingRequest>
+      <requestTime>17 : 05</requestTime>
+      <requestTime>16 : 46</requestTime>
+    </draggingRequest>
+    <draggingOther>
+      <dragTime>10 : 41</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>10 : 35</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>10 : 29</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+    </draggingOther>
+    <gasHit>
+      <hitTime>13 : 41</hitTime>
+      <hittingPlayerName>Server</hittingPlayerName>
+      <hitTime>04 : 56</hitTime>
+      <hittingPlayerName>Server</hittingPlayerName>
+      <hitTime>04 : 29</hitTime>
+      <hittingPlayerName>Server</hittingPlayerName>
+    </gasHit>
+    <airRequest>
+      <requestTime>17 : 05</requestTime>
+      <requestTime>16 : 46</requestTime>
+    </airRequest>
+    <averageAir />
+    <stagesCompletedCount />
+    <emojiUse>
+      <time>18 : 02</time>
+      <type>angry</type>
+      <time>17 : 02</time>
+      <type>happy</type>
+    </emojiUse>
+  </playerReport>
+  <playerReport>
+    <playerName>Mymon</playerName>
+    <gameTime>
+      <endTime>10 : 27</endTime>
+    </gameTime>
+    <armUseCount>10</armUseCount>
+    <draggingRequest>
+      <requestTime>10 : 03</requestTime>
+      <requestTime>19 : 47</requestTime>
+      <requestTime>18 : 07</requestTime>
+    </draggingRequest>
+    <draggingOther>
+      <dragTime>14 : 20</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>14 : 17</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>09 : 26</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>09 : 24</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>07 : 58</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>07 : 51</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>14 : 23</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>18 : 42</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+    </draggingOther>
+    <gasHit>
+      <hitTime>18 : 29</hitTime>
+      <hittingPlayerName>Yariv</hittingPlayerName>
+      <hitTime>18 : 29</hitTime>
+      <hittingPlayerName>Yariv</hittingPlayerName>
+    </gasHit>
+    <airRequest>
+      <requestTime>10 : 03</requestTime>
+      <requestTime>18 : 07</requestTime>
+    </airRequest>
+    <averageAir />
+    <stagesCompletedCount />
+    <emojiUse>
+      <time>10 : 48</time>
+      <type>happy</type>
+      <time>10 : 40</time>
+      <type>happy</type>
+      <time>10 : 29</time>
+      <type>angry</type>
+      <time>18 : 01</time>
+      <type>happy</type>
+      <time>17 : 56</time>
+      <type>angry</type>
+      <time>17 : 53</time>
+      <type>indifferent</type>
+    </emojiUse>
+  </playerReport>
+  <playerReport>
+    <playerName>Yariv</playerName>
+    <gameTime>
+      <endTime>03 : 36</endTime>
+    </gameTime>
+    <armUseCount>33</armUseCount>
+    <draggingRequest>
+      <requestTime />
+    </draggingRequest>
+    <draggingOther>
+      <dragTime>18 : 06</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>15 : 47</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>15 : 25</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>15 : 25</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>12 : 48</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>12 : 47</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>09 : 55</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>09 : 53</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>05 : 18</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>19 : 16</dragTime>
+      <draggedPlayerName>Mymon</draggedPlayerName>
+      <dragTime>15 : 03</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>13 : 12</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>12 : 56</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>12 : 48</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>12 : 40</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>12 : 26</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>12 : 25</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>11 : 53</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>11 : 51</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>08 : 30</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>07 : 56</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>07 : 50</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>06 : 10</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>03 : 54</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>03 : 47</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+    </draggingOther>
+    <gasHit>
+      <hitTime>18 : 28</hitTime>
+      <hittingPlayerName>Mymon</hittingPlayerName>
+    </gasHit>
+    <airRequest>
+      <requestTime />
+    </airRequest>
+    <averageAir />
+    <stagesCompletedCount />
+    <emojiUse>
+      <time />
+      <type />
+    </emojiUse>
+  </playerReport>
+  <playerReport>
+    <playerName>C</playerName>
+    <gameTime>
+      <endTime />
+    </gameTime>
+    <armUseCount>0</armUseCount>
+    <draggingRequest>
+      <requestTime>19 : 12</requestTime>
+    </draggingRequest>
+    <draggingOther>
+      <dragTime />
+      <draggedPlayerName />
+    </draggingOther>
+    <gasHit>
+      <hitTime />
+      <hittingPlayerName />
+    </gasHit>
+    <airRequest>
+      <requestTime />
+    </airRequest>
+    <averageAir />
+    <stagesCompletedCount />
+    <emojiUse>
+      <time />
+      <type />
+    </emojiUse>
+  </playerReport>
+  <playerReport>
+    <playerName>Yariv</playerName>
+    <gameTime>
+      <endTime />
+    </gameTime>
+    <armUseCount>0</armUseCount>
+    <draggingRequest>
+      <requestTime />
+    </draggingRequest>
+    <draggingOther>
+      <dragTime />
+      <draggedPlayerName />
+    </draggingOther>
+    <gasHit>
+      <hitTime />
+      <hittingPlayerName />
+    </gasHit>
+    <airRequest>
+      <requestTime />
+    </airRequest>
+    <averageAir />
+    <stagesCompletedCount />
+    <emojiUse>
+      <time />
+      <type />
+    </emojiUse>
+  </playerReport>
+  <playerReport>
+    <playerName>Yariv</playerName>
+    <gameTime>
+      <endTime />
+    </gameTime>
+    <armUseCount>0</armUseCount>
+    <draggingRequest>
+      <requestTime />
+    </draggingRequest>
+    <draggingOther>
+      <dragTime />
+      <draggedPlayerName />
+    </draggingOther>
+    <gasHit>
+      <hitTime />
+      <hittingPlayerName />
+    </gasHit>
+    <airRequest>
+      <requestTime />
+    </airRequest>
+    <averageAir />
+    <stagesCompletedCount />
+    <emojiUse>
+      <time />
+      <type />
+    </emojiUse>
+  </playerReport>
+  <playerReport>
+    <playerName>Mymon</playerName>
+    <gameTime>
+      <endTime />
+    </gameTime>
+    <armUseCount>0</armUseCount>
+    <draggingRequest>
+      <requestTime />
+    </draggingRequest>
+    <draggingOther>
+      <dragTime />
+      <draggedPlayerName />
+    </draggingOther>
+    <gasHit>
+      <hitTime />
+      <hittingPlayerName />
+    </gasHit>
+    <airRequest>
+      <requestTime />
+    </airRequest>
+    <averageAir />
+    <stagesCompletedCount />
+    <emojiUse>
+      <time />
+      <type />
+    </emojiUse>
+  </playerReport>
+  <playerReport>
+    <playerName>Player</playerName>
+    <gameTime>
+      <endTime />
+    </gameTime>
+    <armUseCount>4</armUseCount>
+    <draggingRequest>
+      <requestTime />
+    </draggingRequest>
+    <draggingOther>
+      <dragTime>12 : 00</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+      <dragTime>11 : 55</dragTime>
+      <draggedPlayerName>
+      </draggedPlayerName>
+    </draggingOther>
+    <gasHit>
+      <hitTime />
+      <hittingPlayerName />
+    </gasHit>
+    <airRequest>
+      <requestTime />
+    </airRequest>
+    <averageAir />
+    <stagesCompletedCount />
+    <emojiUse>
+      <time />
+      <type />
+    </emojiUse>
+  </playerReport>
+  <playerReport>
+    <playerName>Mymon</playerName>
+    <gameTime>
+      <endTime />
+    </gameTime>
+    <armUseCount>0</armUseCount>
+    <draggingRequest>
+      <requestTime />
+    </draggingRequest>
+    <draggingOther>
+      <dragTime />
+      <draggedPlayerName />
+    </draggingOther>
+    <gasHit>
+      <hitTime />
+      <hittingPlayerName />
+    </gasHit>
+    <airRequest>
+      <requestTime />
+    </airRequest>
+    <averageAir />
+    <stagesCompletedCount />
+    <emojiUse>
+      <time />
+      <type />
+    </emojiUse>
+  </playerReport>
+</gameReport>
